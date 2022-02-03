@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## [v0.0.1](https://github.com/tomarv2/terraform-azure-network-secuity-group/releases/tag/v0.0.1) - 2022-02-03 20:51:20
+## [v0.0.1](https://github.com/tomarv2/terraform-azure-network-security-group/releases/tag/v0.0.1) - 2022-02-03 20:56:07
 
 *No description*
 
