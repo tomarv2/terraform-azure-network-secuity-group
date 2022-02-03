@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/twitter/follow/varuntomar2019?style=social&logo=twitter"></a>
 </p>
 
-# Terraform module to create [Azure Virtual Network](https://azure.microsoft.com/en-us/services/virtual-network/#overview)
+# Terraform module to create [Azure Network Security Group](https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview)
 
 ## Versions
 
